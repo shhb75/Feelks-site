@@ -4,3 +4,4 @@ artifacts/
 *.tar.gz
 *.zip
 tools/
+source-assets/
